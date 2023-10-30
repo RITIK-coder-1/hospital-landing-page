@@ -1,24 +1,37 @@
-# Hospital Landing Page Website
+# Bike Landing Page Website
+
+## Table of Contents
+- [Bike Landing Page Website](#bike-landing-page-website)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Usage](#usage)
+  - [SKILLS/TOOLS Involved](#skillstools-involved)
+  - [Installation](#installation)
+  - [Credits](#credits)
+  - [Contact](#contact)
+
 
 ## Overview
 
-This project is a hospital landing page website, created as a part of my milestone exam for PWSkills. Please note that this is not a real hospital website but a student project.
+This project is a bike landing page website, created as a part of my milestone exam for PWSkills. Please note that this is not a real e-commerce website but a student project.
+
+Visit the link: https://bike.ritik.surge.sh
 
 ## Features
 
-- **Information:** The website provides essential information about the hospital, its services, various prices and contact details, along with a submitting form. It covers the various features offered by the website on behalf of the hospital.
+- **Bike Showcase:** The website presents a collection of bikes with images and brief descriptions.
 
-- **Contact Form:** Users can use the contact form to reach out to the hospital for inquiries or appointments.
+- **Information:** It showcases all the important information and feature related to the bikes.
 
-- **Reviews:** It also shows some reviews that have rated it 4+ out of 5.
+- **Contact Form:** Users can use the contact form to inquire about bikes or services by submiting their email.
 
 ## Usage
 
-- This website is a demonstration project created for my milestone exam. It showcases the design and functionality of a hospital landing page.
+- This website is a demonstration project created for my milestone exam. It showcases the design and functionality of a bike landing page.
 
 ## SKILLS/TOOLS Involved:
 
-- HTML5, CSS3
+- HTML5, TailwindCSS
 
 ## Installation
 
